@@ -1,5 +1,7 @@
 # ❤️ CardioPredict AI – Heart Disease Prediction
 
+🔗 **Live Demo:** [Open the app](https://heart-disease-prediction-mzjavhevfgdovbnenhyvzy.streamlit.app/)
+
 A machine learning web app that predicts whether a patient is likely to have heart disease from basic clinical information. Built with **Python, Scikit-learn and Streamlit**.
 
 > ⚠️ **Disclaimer:** This is an educational project, not a medical diagnostic tool. Always consult a qualified healthcare professional.
